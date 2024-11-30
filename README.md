@@ -15,4 +15,4 @@ Projekt dotyczy wdrożenia usługi medycznej, umożliwiającej zarządzanie dany
 
 ### Pobieranie repozytorium:
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/mashasolovey/new_service_pd4653.git
